@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **arifshamim0786@gmail.com OR www.linkedin.com/in/arif-shamim**
 
-- ⚡ Fun fact I AM CHODU EXPERT
+- ⚡ Fun fact I AM  love solving puzzles and playing strategy games
 
 <h3 align="left">Connect with me:</h3>
 
