@@ -10,9 +10,9 @@
 <image align="right" width="300px" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=d849cd2fkoe93y9l1o5ifz8i64ex491vkwp9a6ko0dy8jzzb&rid=giphy.gif&ct=g">
 
 
-- 🔭 I’m currently working on Data Visualizations
+- 🔭 I’m currently working on Fronted Developer
 
-- 🌱 I’m currently learning Data Mining & Data Refining
+- 🌱 I’m currently learning DSA in Java
 
 - 👯 I’m looking to collaborate on data-driven projects and exploring real-world datasets
 
