@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm ARIF SHAMIM</h1>
-<h3 align="center">A passionate Data Analytics from India</h3>
+<h3 align="center">A passionate about robust,user-friendly website and application.with a strong foundation in web development </h3>
 <image align="right" width="300px" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=d849cd2fkoe93y9l1o5ifz8i64ex491vkwp9a6ko0dy8jzzb&rid=giphy.gif&ct=g">
 
 
